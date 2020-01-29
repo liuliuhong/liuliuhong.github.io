@@ -1,0 +1,38 @@
+search:
+  title: Search
+  keyword: keyword
+  status:
+    success: v
+    error: x
+
+postTotal: "%d posts in total."
+
+paginator:
+  pre: Previous
+  next: Next
+
+post:
+  toc: TOC
+
+home:
+  title: Home
+
+archive:
+  title: 近似的我
+  subtitle: 虎大王
+
+tag:
+  title: Tags
+  subtitle: Tag
+
+category:
+  title: Categories
+  subtitle: Category
+
+about:
+  title: About
+  subtitle: About
+
+page404:
+  title: Page not found
+  subtitle: Oops, Page not found...
