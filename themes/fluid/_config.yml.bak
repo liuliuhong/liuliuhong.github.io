@@ -140,7 +140,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: http://img.jjkjnet.com/pic_water/5cb2d75d465b1.jpg?x-oss-process=image/resize,w_1200
+  banner_img: http://liuliuhong.gitee.io/blogimage/page_and_first/1.jpg
   banner_img_height: 70  # available: 0 - 100
   meta:  # 文章标题下方的信息
     date:  # 文章日期

@@ -254,7 +254,7 @@ livere:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/2.jpg
+  banner_img: http://liuliuhong.gitee.io/blogimage/page_and_first/2.jpg
   banner_img_height: 80  # available: 0 - 100
 
 
@@ -263,7 +263,7 @@ archive:
 # Categories Page
 #---------------------------
 category:
-  banner_img: /img/2.jpg
+  banner_img: http://liuliuhong.gitee.io/blogimage/page_and_first/2.jpg
   banner_img_height: 80  # available: 0 - 100
 
 
@@ -272,7 +272,7 @@ category:
 # Tags Page
 #---------------------------
 tag:
-  banner_img: /img/3.jpg
+  banner_img: http://liuliuhong.gitee.io/blogimage/page_and_first/3.jpg
   banner_img_height: 80  # available: 0 - 100
   tagcloud: # 标签云
     min_font: 15
@@ -288,9 +288,9 @@ tag:
 #---------------------------
 about:  # 以下仅为页面顶部的基本信息，更多内容请在 ./pages/about.md 中编辑，支持 markdown 和 HTML
   md_path: ./pages/about.md  # 关于页文档的相对路径，可以按相对文档设置主题之外的路径，从而避免更新冲突
-  banner_img: http://pic1.win4000.com/wallpaper/0/53abb2293d8c0.jpg
+  banner_img: http://liuliuhong.gitee.io/blogimage/page_and_first/4.jpg
   banner_img_height: 80  # available: 0 - 100
-  avatar: /img/avatar.jpg # 头像
+  avatar: http://liuliuhong.gitee.io/blogimage/page_and_first/avatar.jpg # 头像
   name: 追星星的史莱姆
   introduce: java / spring / 历史 / 科技 / 时尚 # 支持 HTML
   icons: # 更多图标可从 https://fontawesome.com/v4.7.0/icons/ 查找，并以 "图标名: url" 的格式添加在下方
