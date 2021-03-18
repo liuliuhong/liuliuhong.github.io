@@ -8,7 +8,7 @@
     <link href="/2021/03/18/%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
     <url>/2021/03/18/%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/</url>
     
-    <content type="html"><![CDATA[<h1 id="时隔一年终于又回来了"><a href="#时隔一年终于又回来了" class="headerlink" title="时隔一年终于又回来了"></a>时隔一年终于又回来了</h1><h2 id="emsp-希望现在开始，我能再度踏上旅途！"><a href="#emsp-希望现在开始，我能再度踏上旅途！" class="headerlink" title="&emsp; 希望现在开始，我能再度踏上旅途！"></a>&emsp; <strong>希望现在开始，我能再度踏上旅途！</strong></h2><ul><li>编辑博客步骤：<ul><li>hexo new在source中新建一个md文件。并开始写作！图片放入 /public/img/</li><li>hexo generate 生成网页，hexo server 检视效果</li><li>hexo deploy 发布文章</li><li>使用git 上传到master分支（master分支代表站点分支，source分支为生成资源备份，两者无直接联系，不要合并）</li></ul></li></ul><hr><p><img src="/img/comeback.jpeg" srcset="/img/loading.gif" alt="I am back"><br>&emsp;<strong>2021.3.18&emsp;Again！！！&emsp;哈哈哈哈哈哈哈哈哈哈哈</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="时隔一年终于又回来了"><a href="#时隔一年终于又回来了" class="headerlink" title="时隔一年终于又回来了"></a>时隔一年终于又回来了</h1><h2 id="emsp-希望现在开始，我能再度踏上旅途！"><a href="#emsp-希望现在开始，我能再度踏上旅途！" class="headerlink" title="&emsp; 希望现在开始，我能再度踏上旅途！"></a>&emsp; <strong>希望现在开始，我能再度踏上旅途！</strong></h2><ul><li>编辑博客步骤：<ul><li>hexo new在source中新建一个md文件。并开始写作！图片放入 /public/img/</li><li>hexo generate 生成网页，hexo server 检视效果</li><li>hexo deploy 发布文章</li><li>使用git 上传到master分支（master分支代表站点分支，source分支为生成资源备份，两者无直接联系，不要合并）</li></ul></li></ul><hr><p><img src="http://liuliuhong.gitee.io/blogimage/page_and_first/comeback.jpeg" srcset="/img/loading.gif" alt="I am back"><br>&emsp;<strong>2021.3.18&emsp;Again！！！&emsp;哈哈哈哈哈哈哈哈哈哈哈</strong></p>]]></content>
     
     
     
